@@ -18,7 +18,7 @@ for i in range(10):
 
 
 # Train or test 
-mode = 'test'  #test
+mode = 'train'  #test
 directory = 'data/'+mode+'/'
 minValue = 70
 
